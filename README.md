@@ -5,6 +5,11 @@ v2.4->初次使用
 莫要全抄，毕竟内网地址。 
 
 ## 主要内容
+
+APP预览图
+
+![image](http://ww4.sinaimg.cn/large/8589667bgw1f3sd4j6988j20f009xmxp.jpg)
+
 ### OkHttpUtils 
 OkHttpUtils 是我自己为了代码好整理写的一个类，跟[鸿洋大大](http://blog.csdn.net/lmj623565791/article/details/47911083)的并不是一个东西，也不是他那个级别的东西。
 就写了get和post两个方法。（链接还有OkHttp的使用都写在里面了）
